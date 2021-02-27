@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/industrious/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/industrious/static/js/main.f4b4246c.chunk.js",
+    "main.js.map": "/industrious/static/js/main.f4b4246c.chunk.js.map",
+    "runtime-main.js": "/industrious/static/js/runtime-main.a5939104.js",
+    "runtime-main.js.map": "/industrious/static/js/runtime-main.a5939104.js.map",
+    "static/js/2.262fdfde.chunk.js": "/industrious/static/js/2.262fdfde.chunk.js",
+    "static/js/2.262fdfde.chunk.js.map": "/industrious/static/js/2.262fdfde.chunk.js.map",
+    "static/js/3.9ae0037c.chunk.js": "/industrious/static/js/3.9ae0037c.chunk.js",
+    "static/js/3.9ae0037c.chunk.js.map": "/industrious/static/js/3.9ae0037c.chunk.js.map",
+    "index.html": "/industrious/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/industrious/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.262fdfde.chunk.js.LICENSE.txt": "/industrious/static/js/2.262fdfde.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/industrious/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5939104.js",
+    "static/js/2.262fdfde.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f4b4246c.chunk.js"
+  ]
+}
