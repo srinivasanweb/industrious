@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/industrious/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/industrious/static/js/main.f4b4246c.chunk.js",
-    "main.js.map": "/industrious/static/js/main.f4b4246c.chunk.js.map",
-    "runtime-main.js": "/industrious/static/js/runtime-main.a5939104.js",
-    "runtime-main.js.map": "/industrious/static/js/runtime-main.a5939104.js.map",
-    "static/js/2.262fdfde.chunk.js": "/industrious/static/js/2.262fdfde.chunk.js",
-    "static/js/2.262fdfde.chunk.js.map": "/industrious/static/js/2.262fdfde.chunk.js.map",
-    "static/js/3.9ae0037c.chunk.js": "/industrious/static/js/3.9ae0037c.chunk.js",
-    "static/js/3.9ae0037c.chunk.js.map": "/industrious/static/js/3.9ae0037c.chunk.js.map",
+    "main.css": "/industrious/static/css/main.3734faf0.chunk.css",
+    "main.js": "/industrious/static/js/main.d465e513.chunk.js",
+    "main.js.map": "/industrious/static/js/main.d465e513.chunk.js.map",
+    "runtime-main.js": "/industrious/static/js/runtime-main.e007d551.js",
+    "runtime-main.js.map": "/industrious/static/js/runtime-main.e007d551.js.map",
+    "static/css/2.d4010ede.chunk.css": "/industrious/static/css/2.d4010ede.chunk.css",
+    "static/js/2.5c4f31ad.chunk.js": "/industrious/static/js/2.5c4f31ad.chunk.js",
+    "static/js/2.5c4f31ad.chunk.js.map": "/industrious/static/js/2.5c4f31ad.chunk.js.map",
+    "static/js/3.7cadb9c4.chunk.js": "/industrious/static/js/3.7cadb9c4.chunk.js",
+    "static/js/3.7cadb9c4.chunk.js.map": "/industrious/static/js/3.7cadb9c4.chunk.js.map",
     "index.html": "/industrious/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/industrious/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.262fdfde.chunk.js.LICENSE.txt": "/industrious/static/js/2.262fdfde.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/industrious/static/media/logo.6ce24c58.svg"
+    "static/css/2.d4010ede.chunk.css.map": "/industrious/static/css/2.d4010ede.chunk.css.map",
+    "static/css/main.3734faf0.chunk.css.map": "/industrious/static/css/main.3734faf0.chunk.css.map",
+    "static/js/2.5c4f31ad.chunk.js.LICENSE.txt": "/industrious/static/js/2.5c4f31ad.chunk.js.LICENSE.txt",
+    "static/media/banner.5c58d52a.mp4": "/industrious/static/media/banner.5c58d52a.mp4",
+    "static/media/App.css": "/industrious/static/media/cta01.3aeb7377.jpg",
+    "static/media/all.min.css": "/industrious/static/media/fa-solid-900.f4f93856.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5939104.js",
-    "static/js/2.262fdfde.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f4b4246c.chunk.js"
+    "static/js/runtime-main.e007d551.js",
+    "static/css/2.d4010ede.chunk.css",
+    "static/js/2.5c4f31ad.chunk.js",
+    "static/css/main.3734faf0.chunk.css",
+    "static/js/main.d465e513.chunk.js"
   ]
 }
